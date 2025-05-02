@@ -1,0 +1,17 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "Restaurant single-page app built with Webpack",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^5.99.7",
+    "webpack-cli": "^4.10.0",
+    "html-webpack-plugin": "^5.5.0",
+    "style-loader": "^3.3.3",
+    "css-loader": "^6.8.1",
+    "copy-webpack-plugin": "^11.0.0"
+  }
+}
